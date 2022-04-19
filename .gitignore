@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.DS_Store
+text.txt
+*/package-lock.json
+package-lock.json
+.vscode
